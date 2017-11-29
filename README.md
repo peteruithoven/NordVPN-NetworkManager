@@ -9,6 +9,9 @@ More documentation will be available when this tool is out of Alpha releases.
 **Warning:**
 *This tool is still highly under development. I take no responsibility for any unforseen problems it may cause.*
 
+**WebRTC warning:**
+This tool can't protect against ip leaks through WebRTC in browsers, more info: [https://www.bestvpn.com/a-complete-guide-to-ip-leaks/#webrtc](The WebRTC “bug”)
+
 ## Features:
 - Uses the latest NordVPN OpenVPN configuration files.
 - Imports the 'best' server of each available type (country, category, protocol), based on latency and server load.
